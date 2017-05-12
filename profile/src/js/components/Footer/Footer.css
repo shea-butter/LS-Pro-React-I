@@ -1,0 +1,20 @@
+.footer {
+	background-color: powderblue;
+	border-bottom: 2px solid darkslategray;
+	border-top: 2px solid darkslategray;
+	height: 5rem;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.footer li {
+	display: inline-block;
+	margin: auto;
+	list-style: none;
+}
+
+.footer ul {
+	margin: .5rem;
+	padding: 0;
+}

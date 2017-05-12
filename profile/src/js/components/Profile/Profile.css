@@ -1,12 +1,11 @@
+.profile {
+	border: 1px solid black;
+	width: 15rem;
+}
+
 a i {
 	color: black;
 	text-shadow: 1px 1px 2px blue;
-}
-
-.body {
-	background-color: whitesmoke;
-	height: 100vh;
-	margin-top: 10rem;
 }
 
 .profilePic {

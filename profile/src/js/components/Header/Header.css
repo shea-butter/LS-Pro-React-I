@@ -1,14 +1,9 @@
-.navbar {
-	background-color: powderblue;
+.header {
+	background-color: whitesmoke;
 	border-bottom: 2px solid darkslategray;
 	border-top: 2px solid darkslategray;
-	height: 10rem;
+	height: 5rem;
 	position: fixed;
 	top: 0;
 	width: 100%;
-}
-
-.navbar h1 {
-	line-height: 10rem;
-	margin: 0 auto;
 }
